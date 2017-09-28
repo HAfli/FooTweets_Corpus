@@ -31,10 +31,16 @@ The corpus consists of two separate files as follows:
 
 Each of the above file contains one tweet per line and the format is as follows:
 
-<tweet><space>|||<space><sentiment score>
+
+        <tweet><space>|||<space><sentiment score>
+        
+        
 
 Following is an example of English tweet, 
-    heart Attack # WorldCup ||| 0.3
+
+           heart Attack # WorldCup ||| 0.3
+           
+           
 
 
     
