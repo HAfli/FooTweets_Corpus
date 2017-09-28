@@ -19,7 +19,7 @@ DOWNLOAD LINK:
 
 You need to download the files from the following link:
 
-****please paste the link here
+https://github.com/HAfli/FooTweets_Corpus
 
 
 DATA FORMAT:
